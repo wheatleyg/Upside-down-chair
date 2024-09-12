@@ -23,7 +23,9 @@ extension_api.json
 logs/
 
 # Visual Studio Code
-
+.vscode/
+*.code-workspace
+.history/
 
 # System/tool-specific ignores
 .directory
