@@ -1,3 +1,5 @@
+Software Development
+
 Points:
 5/5 points - add fchsLemke as an admin on your repo and submit a link to this Canvas assignment
 5/5 points - your project launches without any errors
@@ -18,3 +20,28 @@ Bonus Points:
 10 points - you add the ability to upgrade your towers
 10 points - enemies are smarter and can follow different paths based on where you place your towers
 10 points - artistic polish (your game is beautiful and feels like a final project with features like a title screen, audio elements, and a cohesive aesthetic). These are not just 10 free points, you need to actually impress me with how your game feels and include your specific efforts and decisions in your README.
+
+
+Topics
+
+Group Points - 50:
+20/30 points for making a game that functions and is sufficiently complex
+-game doesn't quite function yet since the towers make more towers and crash the game
+3/10 points for following the pull request process correctly (even if working solo, just without reviews)
+-no pull requests and not very many commits. really the only commit is "Upload of all of unfinished project"
+0/10 points for marketing materials
+-i don't see any marketing materials, let me know if i missed something
+
+23/50
+
+Individual Points - 25:
+10/10 points for making meaningful contributions to your project
+4/10 points for providing a thoughtful reflection in your README file
+-"scarce info of making tower defense games" is not the reason this is uncompleted. otherwise a little bit more would have been good here
+2/5 points for reviewing your collaborators’ pull requests (if solo, instead these points will come from your reflection)
+
+16/25
+
+
+
+39/75
